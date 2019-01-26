@@ -1,0 +1,38 @@
+body{
+	margin:0;
+	padding:0;
+	background:blue;
+}
+.register-form{
+	width:400px;
+	height:auto%;
+	position:absolute;  
+	background-color:white;
+	left:50%;
+	top:45% ;
+	transform: translateX(-50%)translateY(-50%);
+	border-bottom:5px solid gray;
+	border-radius:4px;
+}
+input[type="submit"]{
+	width:30%;
+	position:relative;
+	height:20px;
+	background:#0AC986;
+	font-family:san-serif, Arial;
+	font-size:12px;
+	color:#fff;
+	border:0px;
+	cursor:pointer;
+	margin-top:10px;
+}	
+.view-form{
+	width:30%;
+	height:auto;
+	left:50%;
+	top:250%;
+	
+
+	
+}
+	 
